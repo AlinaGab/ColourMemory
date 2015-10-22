@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Colour Memory</string>
+    <string name="high_score_button">High Score</string>
+    <string name="username">Username</string>
+    <string name="insert_score_button">Submit</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="dialog_message">Please insert your name below</string>
+    <string name="alert_dialog_cancel">cancel</string>
+    <string name="alert_dialog_two_buttons_title">title</string>
+    <string name="high_scores">High Scores</string>
+</resources>
